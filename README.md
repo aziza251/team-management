@@ -1,3 +1,5 @@
+Please change the branch to master to view project details
+
 Sports Management System
 
 Overview
